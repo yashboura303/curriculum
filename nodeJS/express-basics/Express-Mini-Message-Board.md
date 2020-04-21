@@ -103,3 +103,4 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
 - [mmboyce's Solution](https://github.com/mmboyce/mini-message-board) - [View in Browser](https://enigmatic-taiga-64239.herokuapp.com/)
 - [Scott Bowles's Solution](https://github.com/scottBowles/express-practice-mini-messageboard) - [View in Browser](https://salty-savannah-75073.herokuapp.com/)
 </details>
+- [Yash Boura's Solution] (https://github.com/yashboura303/mini_message_board) - [View in Browser] (https://boiling-cliffs-14726.herokuapp.com/)
